@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause:go
+FROM k8s.gcr.io/pause:latest
